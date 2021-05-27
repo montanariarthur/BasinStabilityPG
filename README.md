@@ -32,4 +32,4 @@ Matpower 6.0 (https://matpower.org/download/) is required for the power flow cal
 
 # References
 1. Arthur N. Montanari, Ercilio I. Moreira, Luis A. Aguirre (**2020**). Effects of network heterogeneity and tripping time on the basin stability of power systems. *Communications in Nonlinear Science and Numerical Simulation*, 89, 105296. https://doi.org/10.1016/j.cnsns.2020.105296.
-2. Takashi Nishikawa and Adilson E. Motter (**2015**). Comparative analysis of existing models for power-grid synchronization. *New Journal of Physics.* 17, 015012. https://doi.org/10.1088/1367-2630/17/1/015012.
+2. Takashi Nishikawa, Adilson E. Motter (**2015**). Comparative analysis of existing models for power-grid synchronization. *New Journal of Physics.* 17, 015012. https://doi.org/10.1088/1367-2630/17/1/015012.

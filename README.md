@@ -1,4 +1,4 @@
-# BasinStabilityPG
+# Basin stability estimation for a random set of power grids and a simplified model of the Brazilian power grid
 This repository contains the MATLAB codes used to estimate the basin stability
 of a set of randomly generated power grids as well as a simplified model of the 
 Brazilian power grid, as described in Ref. [1]. Please, refer to this paper for further details.
